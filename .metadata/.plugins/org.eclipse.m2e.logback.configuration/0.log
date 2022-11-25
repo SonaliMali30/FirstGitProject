@@ -1,0 +1,13 @@
+2022-11-25 13:34:19,697 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-25 13:41:04,506 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: VelocityChichwadPune:MyProgramsMaven:0.0.1-SNAPSHOT @ D:\velocity\Eclipse_WorkSpace\myProgramsMaven\pom.xml.
+2022-11-25 13:41:14,837 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyProgramsMaven/src/main/java
+2022-11-25 13:41:14,841 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyProgramsMaven/src/test/java
+2022-11-25 13:41:17,122 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 23 sec
+2022-11-25 13:41:24,408 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 13:41:24,409 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\velocity\Eclipse_WorkSpace\myProgramsMaven\src\main\resources
+2022-11-25 13:41:24,419 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 13:41:24,419 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\velocity\Eclipse_WorkSpace\myProgramsMaven\src\test\resources
+2022-11-25 13:42:58,526 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 13:42:58,527 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\velocity\Eclipse_WorkSpace\myProgramsMaven\src\main\resources
+2022-11-25 13:42:58,535 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 13:42:58,535 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\velocity\Eclipse_WorkSpace\myProgramsMaven\src\test\resources
